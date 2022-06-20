@@ -30,4 +30,4 @@ After the simulation has concluded the app also calculates the level of synchron
 
 Bryan E. Avila
 
-as also seen at [@kryogenica]([https://github.com/makselab](https://github.com/kryogenica/C.-elegans_locomotive_simulator))
+as also seen at [@kryogenica](https://github.com/kryogenica/C.-elegans_locomotive_simulator)
