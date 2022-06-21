@@ -26,7 +26,7 @@ After the simulation has concluded the app also calculates the level of synchron
 
 [2] Flaviano Morone and Hernan A Makse. Symmetry group factorization reveals the structure-function relation in the neural connectome of caenorhabditis elegans. Nature communications, 10(1):1–13, 2019
 
-[3] Bryant Avila and Hernan Makse. Minimal balanced coloring, orbit coloring and the synchronization of locomotive neurons in C.elegans
+[3] Bryant Avila and Hernan Makse. Minimal balanced coloring, orbit coloring and the synchronization of locomotive neurons in C.elegans (In the works)
 
 Bryan E. Avila
 
