@@ -22,6 +22,14 @@ After the simulation has concluded the app also calculates the level of synchron
 
 --------------
 
+Toolboxes that are needed:
+
+Statistic and Machine Learning
+
+Fuzzy Logic
+
+--------------
+
 [1] Lav R Varshney, Beth L Chen, Eric Paniagua, David H Hall, and Dmitri B Chklovskii. Structural properties of the caenorhabditis elegans neuronal network. PLoS computational biology, 7(2):e1001066, 2011
 
 [2] Flaviano Morone and Hernan A Makse. Symmetry group factorization reveals the structure-function relation in the neural connectome of caenorhabditis elegans. Nature communications, 10(1):1–13, 2019
