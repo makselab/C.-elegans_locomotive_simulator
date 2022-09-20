@@ -38,4 +38,4 @@ Fuzzy Logic
 
 as also seen at [@kryogenica](https://github.com/kryogenica/C.-elegans_locomotive_simulator)
 
-For any questions please contact: bryant.avila.physics@gmail.com
+For any questions please contact: bryant.avila.physics@gmail.com or hmakse@ccny.cuny.edu
