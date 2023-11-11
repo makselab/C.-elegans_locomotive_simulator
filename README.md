@@ -39,3 +39,6 @@ Fuzzy Logic
 as also seen at [@kryogenica](https://github.com/kryogenica/C.-elegans_locomotive_simulator)
 
 For any questions please contact: bryant.avila.physics@gmail.com or hmakse@ccny.cuny.edu
+--------------
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
