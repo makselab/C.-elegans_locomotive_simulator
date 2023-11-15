@@ -1,5 +1,5 @@
 # C.-elegans_locomotive_simulator
-Ready to install and run MatLab app simulates the forward and backward locomotive neural network dynamics with multiple control variables.
+Ready to install and run MatLab app (CelegansLocomotion.mlappinstall) simulates the forward and backward locomotive neural network dynamics with multiple control variables.
 ![alt text](Example.png?raw=true)
 The user can specify the type of networks used (electron micrograph connectivity produced by Varshney [1], left-right symmetrized, fully symmetrized [2]) for the forward+backward network system as well as the type for the inter-connectivity between these two. The inter-connectivity interactions are considered inhibitory while intra-connectivity interactions are considered exitatory.
 
