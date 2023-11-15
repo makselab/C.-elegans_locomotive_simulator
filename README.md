@@ -15,12 +15,12 @@ The type of ordinary differential equation models that can be used for neuron in
 </p>
 Addiontionaly it is possible to specify the type of weights used for the connectivity (binary or integer) and the ability to randomly alter these weights, normalize the in-degree of each neuron for both types of interactions, the initial distribution of voltages and synaptic variables, type of model used for the chemical synapses interactions and more controlls. Fianlly one is able to specify which neurons receive a static input current, the amplitude and frequency of an undulatory input and a Gaussian random walk input.
 Dynamics are evolved using a Runge-Kutta-4th method.
+Within the folder "network" are all the files needed to generate all the networks in our manuscript. All of these are integer weighted, binarization happens within the code.
 After the simulation has concluded the app also calculates the level of synchronicity (LoS) as per the equation below for the pair of neurons for each of the two networks for the last second of simulation time. Other measurements are also accesible (Phase Locking Value, Phase Differenece and Standard Deviation Difference).
 
 <p align="center">
 <img src="LoS.png?raw=true" width="200">
 </p>
-Within the folder "network" are all the files needed to generate all the networks in our manuscript. All of these are integer weighted, binarization happens within the code.
 
 
 --------------
