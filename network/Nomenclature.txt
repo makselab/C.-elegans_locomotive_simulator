@@ -1,4 +1,4 @@
-
+ALL THE NETWORKS HERE ARE INTEGER WEIGHTED. THE BINARIZATION HAPPENS WITHIN OUR CODE.
 F2B represents connections between forward nueorns to backward neurons
 LR symmetrized means that the network has been process to be such that if a motor-neuron only has one in-degree edge from an inter-neuron (say its left version) after processing this motor-neuron will also have an in-degree edge coming from the other inter-neuron (in this case the right verion).
 Hernan symmetrized mean that the networks are exactly as the ones seen in our paper.
