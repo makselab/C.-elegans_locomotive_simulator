@@ -34,7 +34,7 @@ Fuzzy Logic
 
 [2] Flaviano Morone and Hernan A Makse. Symmetry group factorization reveals the structure-function relation in the neural connectome of caenorhabditis elegans. Nature communications, 10(1):1–13, 2019
 
-[3] Bryant Avila and Hernan Makse. Minimal balanced coloring, orbit coloring and the synchronization of locomotive neurons in C.elegans (In the works)
+[3] Bryant Avila, Hernan Makse et. al. Fibration symmetries and cluster synchronization in the Caenorhabditis elegans connectome (Under review)
 
 as also seen at [@kryogenica](https://github.com/kryogenica/C.-elegans_locomotive_simulator)
 
