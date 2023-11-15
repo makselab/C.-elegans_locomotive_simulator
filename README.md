@@ -21,6 +21,8 @@ After the simulation has concluded the app also calculates the level of synchron
 <img src="LoS.png?raw=true" width="200">
 </p>
 Within the folder "network" are all the files needed to generate all the networks in our manuscript. All of these are integer weighted, binarization happens within the code.
+
+
 --------------
 
 Toolboxes that are needed:
